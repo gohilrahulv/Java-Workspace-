@@ -22,7 +22,6 @@ public class SummationFirstLast {
         System.out.println("First Digit : " + firstDigit);
         System.out.println("Last Digit : " + lastDigit);
         System.out.println("Sum : " + (0-(firstDigit + lastDigit)));
-        System.out.println(firstDigit/10);
 
     }
 }
