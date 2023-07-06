@@ -2,6 +2,21 @@ import java.util.Scanner;
 
 public class Ex10Prime
 {
+    public static boolean isPrime(int n) 
+    {
+        if(n<=1)
+        {
+            return false;
+        }
+        for(int divisor=2;divisor<=n/2;divisor++)
+        {
+            if(n%divisor==0)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
 
     public static void main(String[] args) 
     {
@@ -21,20 +36,4 @@ public class Ex10Prime
         }
         s.close();
     }
-    public static boolean isPrime(int n) 
-    {
-        if(n<=1)
-        {
-            return false;
-        }
-        for(int divisor=2;divisor<=n/2;divisor++)
-        {
-            if(n%divisor==0)
-            {
-                return false;
-            }
-        }
-        return true;
-    }
-
 }
