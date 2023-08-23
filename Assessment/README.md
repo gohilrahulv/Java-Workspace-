@@ -23,7 +23,7 @@ After that user will be redirected to main screen for add or view Course.
 
 Now if user select `View Course` then list of all Course will be displayed at console screen.
 
-If user select `Search Course` stock option then, 
+If user select `Search Course` option then, 
 
 user will be asked to enter Course id for searching.
 
