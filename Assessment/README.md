@@ -9,7 +9,7 @@ Make sure each business logic is denoted with appropriate comments and make your
 
 `Add Course || View Course || Search Course || Edit Course || Delete Course`
 
-when user select `Add Stock` option then it will display following menu
+when user select `Add Course` option then it will display following menu
 
 - Course ID:
 - Course Name:
