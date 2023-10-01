@@ -287,7 +287,7 @@ public class Ex2RegistrationFormGUI extends JFrame{
 
                   Class.forName("com.mysql.jdbc.Driver");
 
-                  con =DriverManager.getConnection("jdbc:mysql://localhost:3306/assessment","root","");
+                  con =DriverManager.getConnection("jdbc:mysql://localhost:3306/assignment","root","");
 
                   stmt = con.createStatement();
 
