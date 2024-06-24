@@ -8,6 +8,7 @@ Build Restful CRUD API for a simple Book-Manage application using Spring MVC, My
 create database bookdb
 ```
 
+
 **3. Change mysql username and password as per your installation**
 
 + open `src/main/resources/db.properties`
