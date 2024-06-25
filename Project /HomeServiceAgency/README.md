@@ -1,6 +1,6 @@
 A online Home service website where users can get many professionals according to the services provided in the website. And can book any one of the professional for their word with date and time.
 
-in this project @gohilrahulv handle backend side and @prashantpatel5452 handle frontend side
+
 ![1](https://github.com/gohilrahulv/HomeServiceAgency/assets/118652650/2fbbec3d-8716-4827-ad6d-d27ecb1da561)
 ************************************************************************************************************
 ![2](https://github.com/gohilrahulv/HomeServiceAgency/assets/118652650/0533dcbc-fb29-41a2-acce-467ca4c7fb47)
