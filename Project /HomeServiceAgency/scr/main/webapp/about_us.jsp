@@ -61,14 +61,9 @@
 					<img src="./images/hu.jpg" class="mb-3 mx-auto rounded-circle"
 						style="width: 10rem; height: 10rem;" alt="Sourima" srcset="">
 					<p class="fw-semibold fs-4 mb-0">Rahul Gohil</p>
-					<p class="text-secondary fw-light">(B.Tech.), Swarrnim Startup & Innovation University,Gandhinagar</p>
+					<p class="text-secondary fw-light">Java Developer Trainee at <a target="_blank" href="https://www.tops-int.com/" >TOPS Technologies Pvt. Ltd.</a></p>
 				</div>
-				<div class="col-lg-3 col-md-6  col-sm-12  text-center">
-					<img src="./images/P1.jpg" class="mb-3 mx-auto rounded-circle"
-						style="width: 10rem; height: 10rem;" alt="Sarita" srcset="">
-					<p class="fw-semibold fs-4 mb-0">Prashant Patel</p>
-					<p class="text-secondary fw-light">(B.Tech.), Swarrnim Startup & Innovation University,Gandhinagar</p>
-				</div>
+				
 			</div>
 		</div>
 	</section>
