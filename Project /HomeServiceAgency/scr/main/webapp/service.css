@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+.searchBox{
+	width:100%;
+	
+}
+#bg 
+{	
+	height:250px;
+	background-image:url("./images/service-bg.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	/*background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);*/
+}
+.submitBtn{
+	width:100%; 
+	padding-top:0.5rem; 
+	padding-bottom:0.5rem; 
+	font-size:1.2rem; 
+}
+.form-select-lg{
+	padding-left:2rem;
+}

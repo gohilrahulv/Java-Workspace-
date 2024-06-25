@@ -1,0 +1,21 @@
+
+.outer-border{
+	width: 30rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding : 2rem;
+    border-radius: 15px; 
+    border-color: black;
+    background-color:#f9f9f9;
+}
+
+
+#forget-password{
+	font-weight:300;
+	color: red  ;
+}
+#forget-password:hover{
+	font-weight:400;
+	color: red ;
+}
