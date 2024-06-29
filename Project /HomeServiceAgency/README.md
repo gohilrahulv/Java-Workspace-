@@ -1,3 +1,5 @@
+This project is running successfully on my device. don't run this project without XAMPP And MySQL If you try without this is will can't load home page because home page is also getting data from database.
+
 A online Home service website where users can get many professionals according to the services provided in the website. And can book any one of the professional for their word with date and time.
 
 Introduction:-
